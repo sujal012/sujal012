@@ -62,5 +62,5 @@ I've worked across data pipelines, deep learning, and full-stack web, and I pick
 ---
 
 <p align="center">
-  <i>Open to SWE / ML / data roles — feel free to reach out</i>
+  <i>Open to SWE / ML / data roles</i>
 </p>
