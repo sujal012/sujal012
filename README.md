@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sujal Suryawanshi 👋</h1>
 
 <p align="center">
-  Final-year CS student from Mumbai · Python · ML · Full-Stack
+  Final-year CS student from Mumbai · Python · ML · Full-Stack · Data Science
 </p>
 
 <p align="center">
