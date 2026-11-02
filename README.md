@@ -20,7 +20,7 @@
 
 👋 Hi, I'm Sujal!
 
-I'm a Computer Science Engineering student passionate about Data Science , Data Analytics, Business Analyst, Artificial Intelligence and Machine Learning.
+I'm a Computer Science Engineering student passionate about Data Science, Data Analytics, Business Analyst, Artificial Intelligence and Machine Learning.
 
 I enjoy building practical projects, solving real-world problems, and learning new technologies. I have hands-on experience with Python, Machine Learning, Data Analytics and Web Development.
 
