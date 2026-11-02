@@ -18,9 +18,13 @@
 
 ### ✦ About Me
 
-I'm a final-year B.Tech CS student at VIT Mumbai (2026 batch, CGPA 8.31).  
-I build things end to end — training ML models, wiring up REST APIs, and shipping React frontends.  
-I've worked across data pipelines, deep learning, and full-stack web, and I pick up whatever the project needs.
+👋 Hi, I'm Sujal!
+
+I'm a Computer Science Engineering student passionate about Data Science , Data Analytics, Business Analyst, Artificial Intelligence and Machine Learning.
+
+I enjoy building practical projects, solving real-world problems, and learning new technologies. I have hands-on experience with Python, Machine Learning, Data Analytics and Web Development.
+
+🚀 Always learning, building, and improving my skills.
 
 ---
 
