@@ -55,7 +55,7 @@ I enjoy building practical projects, solving real-world problems, and learning n
 
 ### 🎓 Education & Certifications
 
-🎓 B.Tech Computer Science · Vidyalankar Institute of Technology, Mumbai (2022–2026) · CGPA 8.10 
+🎓 B.Tech Computer Engineering · Vidyalankar Institute of Technology, Mumbai (2022–2026) · CGPA 8.10 
 
 📜 Machine Learning with Python — Simplilearn (2024)  
 📜 Data Science & Analytics — HP Life (2026)  
