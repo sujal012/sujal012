@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sujal Suryawanshi 👋</h1>
 
 <p align="center">
-  CS student from Mumbai · Python · ML · Full-Stack · Data Science
+ Recent Computer Science Graduate · Data Science · Data Analytics · Business Analyst · AI/ML Enthusiast
 </p>
 
 ---
