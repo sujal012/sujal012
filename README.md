@@ -58,7 +58,7 @@ I enjoy building practical projects, solving real-world problems, and learning n
 
 ### 🎓 Education & Certifications
 
-🎓 B.Tech Computer Science · Vidyalankar Institute of Technology, Mumbai (2022–2026) · CGPA 8.31  
+🎓 B.Tech Computer Science · Vidyalankar Institute of Technology, Mumbai (2022–2026) · CGPA 8.10 
 📜 Machine Learning with Python — Simplilearn (2024)  
 📜 Data Science & Analytics — HP Life (2026)  
 🔧 Microprocessor Workshop — IIT Bombay (2024) · Assembly · Embedded C · System Design
@@ -66,5 +66,5 @@ I enjoy building practical projects, solving real-world problems, and learning n
 ---
 
 <p align="center">
-  <i>Open to SWE / ML / data roles</i>
+  <i>Open to data related Roles / ML / AI</i>
 </p>
